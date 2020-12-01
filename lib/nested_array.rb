@@ -32,7 +32,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-AoA = [
+matrix_lookup = [
 ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"]
 ["Asparagus", "Potatoes", "Grapes", "Avocadoes", "Strawberries"]
 ]
