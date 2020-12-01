@@ -33,7 +33,6 @@ end
 
 def matrix_lookup(matrix, row, column)
 produce_storage_room = [
-["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"]
 ["Asparagus", "Potatoes", "Grapes", "Avocadoes", "Strawberries"]
 ]
 
