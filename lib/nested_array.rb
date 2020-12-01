@@ -33,7 +33,7 @@ end
 
 def matrix_lookup(matrix, row, column)
 matrix_lookup =
-["Asparagus", "Potatoes", "Grapes", "Avocadoes", "Strawberries"]
+["Asparagus", Potatoes, "Grapes", "Avocadoes", "Strawberries"]
 ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"]
 
 
